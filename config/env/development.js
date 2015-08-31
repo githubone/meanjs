@@ -1,8 +1,8 @@
 'use strict';
 
 module.exports = {
-	//db: 'mongodb://localhost/meanazure-dev',
-	db:'mongodb://MongoLab-y:Pdu2kLtatMmbRIayWgbTBXQITlxuthNxyUswry3IrAo-@ds034198.mongolab.com:34198/MongoLab-y',
+	db: 'mongodb://localhost/meanazure-dev',
+
 	app: {
 		title: 'meanazure - Development Environment'
 	},
